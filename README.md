@@ -1,4 +1,4 @@
-## **Please find the notes on topics I've learned in the past and am currently learning.**
+## **Please find the notes on topics I've learned in the past and I am currently learning.**
 
 - [30 Linux system monitoring tool every system admin should know.](https://nileshsalunke09.github.io/30-Linux-System-Monitoring-Tools-Every-SysAdmin-Should-Know/)
 
@@ -9,8 +9,3 @@
 - [Configure Upptime, A GitHub website monitor.](https://nileshsalunke09.github.io/Upptime_Documentation/)
 
 - [Linux Shell Scripting.](https://nileshsalunke09.github.io/Linux-Shell-Scripting/)
-
-
-
-
-
